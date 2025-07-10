@@ -2,7 +2,7 @@
   "name": "kibu-mcp",
   "version": "1.0.0",
   "type": "module",
-  "description": "MCP server generated for the kibu subdomain from Mintlify",
+  "description": "MCP server generated for the kibu subdomain from Mintlify.",
   "engines": {
     "node": ">=18.0.0"
   },
